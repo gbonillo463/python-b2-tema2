@@ -1,5 +1,5 @@
 """
-Enunciado:
+Enunciado: 
 Simula el lanzamiento de un dado un número determinado de veces y calcula la probabilidad 
 de cada resultado. Implementa la función 'simulate_dice_rolls(n)' que simule el lanzamiento 
 de un dado 'n' veces y retorne un diccionario con las probabilidades de cada resultado (del 1 al 6).
